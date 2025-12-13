@@ -22,9 +22,7 @@ Me agrada la idea de empezar a crear o probar el desarrollo de mods para videoju
 
 ### 📫 Cómo contactarme
 
-- **Correo:** example@gmail.com
-- **Instagram:** [@tu_usuario_ig](https://instagram.com/tu_usuario_ig) *(ejemplo)*
-- **Facebook:** [Chris Patrick](https://facebook.com/tu_usuario_fb) *(ejemplo)*
+- **Correo:** cchilonsegura@gmail.com
 
 ### 😄 Apodos y Gamertags
 
