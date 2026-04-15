@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Sobre mí
 
-¡Hola! Soy **Chris Patrick** 👋, un desarrollador apasionado por la tecnología y el aprendizaje continuo. Actualmente estoy desarrollando aplicaciones web e incursionando en el desarrollo de aplicaciones móviles. 
+¡Hola! Soy **GGh05t** 👋, un desarrollador apasionado por la tecnología y el aprendizaje continuo. Actualmente estoy desarrollando aplicaciones web e incursionando en el desarrollo de aplicaciones móviles. 
 
 Realizo desarrollo tanto personal como para usuarios que necesitan ayuda desarrollando sus sistemas. Me aventuro aprendiendo nuevas herramientas, lenguajes y frameworks, y me interesa optimizar mi tiempo de desarrollo con ayuda de IA.
 
