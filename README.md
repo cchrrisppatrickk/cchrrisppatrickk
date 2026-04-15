@@ -22,7 +22,7 @@ Me agrada la idea de empezar a crear o probar el desarrollo de mods para videoju
 
 ### 📫 Cómo contactarme
 
-- **Correo:** cchilonsegura@gmail.com
+- **Correo:** devpatrick141dev@gmail.com
 
 ### 😄 Apodos y Gamertags
 
